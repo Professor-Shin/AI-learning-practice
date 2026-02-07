@@ -1,1 +1,1 @@
-# ML-supervised-learning-practice
+# Machine-Learning-practice
